@@ -248,6 +248,28 @@ namespace GASudoku
 				
 				pop.RemoveAt(100);
 
+				if (rand.Next(1, 50) == 1)
+				{
+					int[,] chrom = (int[,])_globals._puzzle.Clone();
+
+					for (int j = 0; j < chrom.GetLength(0); j++)
+					{
+						for (int m = 0; m < chrom.GetLength(1); m++)
+						{
+							if (chrom[j, m] == 0)
+							{
+								int next = rand.Next(1, 4);
+								chrom[j, m] = next;
+							}
+						}
+					}
+					//Console.WriteLine("creating " + chrom);
+					pop.Add(chrom);
+
+					pop.Sort((a, b) => Darwin(a).CompareTo(Darwin(b)));
+					pop.RemoveAt(100);
+				}
+
 				//if (i % 1000 == 0)
 				//{
 				//	Console.WriteLine("\n\n\n\n\n\n\n");

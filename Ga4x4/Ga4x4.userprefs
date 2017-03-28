@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{3DB5AEC4-8F52-4F42-8968-0782B2B0DC01}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Ga4x4/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Ga4x4/Program.cs" Line="12" Column="4" />
+      <File FileName="Program.cs" Line="18" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
