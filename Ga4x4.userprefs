@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{3DB5AEC4-8F52-4F42-8968-0782B2B0DC01}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ga4x4/Program.cs">
+    <Files>
+      <File FileName="Ga4x4/Program.cs" Line="430" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Ga4x4 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

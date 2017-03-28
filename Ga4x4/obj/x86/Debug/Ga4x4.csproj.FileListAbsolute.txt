@@ -1,0 +1,8 @@
+/Users/collinblanchard/Projects/Ga4x4/Ga4x4/bin/Debug/Ga4x4.exe
+/Users/collinblanchard/Projects/Ga4x4/Ga4x4/bin/Debug/Ga4x4.exe.mdb
+/Users/collinblanchard/Projects/Ga4x4/Ga4x4/obj/x86/Debug/Ga4x4.exe
+/Users/collinblanchard/Projects/Ga4x4/Ga4x4/obj/x86/Debug/Ga4x4.exe.mdb
+/Users/collinblanchard/Projects/4x4Ga/Ga4x4/bin/Debug/Ga4x4.exe
+/Users/collinblanchard/Projects/4x4Ga/Ga4x4/bin/Debug/Ga4x4.exe.mdb
+/Users/collinblanchard/Projects/4x4Ga/Ga4x4/obj/x86/Debug/Ga4x4.exe
+/Users/collinblanchard/Projects/4x4Ga/Ga4x4/obj/x86/Debug/Ga4x4.exe.mdb
